@@ -1,0 +1,62 @@
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\csc.exe
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\vbc.exe
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.dll.config
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.pdb
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.dll
+C:\aspnet46_cs\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.pdb
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\csc.exe
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\System.Collections.Immutable.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\System.Reflection.Metadata.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\vbc.exe
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\VBCSCompiler.exe
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\VBCSCompiler.exe.config
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.dll.config
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.pdb
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.csprojResolveAssemblyReference.cache
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\IM VS2015\Student download Sp17\exercises\Ex15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.pdb
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\csc.exe
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\System.Collections.Immutable.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\System.Reflection.Metadata.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\vbc.exe
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\VBCSCompiler.exe
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\roslyn\VBCSCompiler.exe.config
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.dll.config
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Ex15CustMaintDetailsView.pdb
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.csprojResolveAssemblyReference.cache
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.dll
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.pdb
+D:\Personal\Documents\Classes\!CIS296\FroEEx15CustMaintDetailsView\Ex15CustMaintDetailsView\obj\Debug\Ex15CustMaintDetailsView.csproj.CopyComplete
